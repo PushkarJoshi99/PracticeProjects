@@ -39,3 +39,5 @@ const checkWeather = async cityName => {
   }
   document.querySelector('.weather').style.display = 'block'
 }
+
+//comment
